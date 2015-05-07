@@ -15,7 +15,8 @@ body {
 	-moz-box-shadow: inset 0px 0px 2px 1px #fff, inset 0px 0px 20px 1px #000, 0px 0px 2px 0px #fff, 0px 0px 3px 2px #555, 0px 0px 11px 2px #fff, 0px 0px 8px 0px #fff, 0px 0px 1px 10px #555, 0px 0px 10px 10px #222, 0px 0px 80px 10px #000;
 	box-shadow: inset 0px 0px 2px 1px #fff, inset 0px 0px 20px 1px #000, 0px 0px 2px 0px #fff, 0px 0px 3px 2px #555, 0px 0px 11px 2px #fff, 0px 0px 8px 0px #fff, 0px 0px 1px 10px #555, 0px 0px 10px 10px #222, 0px 0px 80px 10px #000;
 	background-color: #eee;
-	border-radius: 15px;
+	border-radius: 20px/50% !important;
+	border-radius: 20px;
 	padding: 15px;
 }
 
